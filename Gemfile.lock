@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    gosu (0.7.40)
+    rrobots (0.0.1)
+      gosu
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rrobots
