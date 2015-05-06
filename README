@@ -1,5 +1,8 @@
 Rrobots Examples
 
+# Install `gosu` dependencies - https://github.com/jlnr/gosu/wiki/Getting-Started-on-OS-X
+$ brew install sdl2 libogg libvorbis
+
 $ gem install bundler
 $ bundle install
-$ ./demo.rb
+$ ./demo.sh

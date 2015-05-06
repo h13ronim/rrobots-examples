@@ -1,7 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    gosu (0.7.40)
+    gosu (0.8.7.2)
     rrobots (0.0.1)
       gosu
 
